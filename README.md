@@ -20,7 +20,7 @@ y preferencias de alimentos.
 - Diseñé el prototipo de alta fidelidad en Figma.
 
 ## Prototipo
-[Ver prototipo en Figma](https://www.figma.com/design/CNIrsQtkcqxHSpGZ9LwLRU/Plan-Alimenticio-SER-FELIZ?node-id=602-6&m=dev&t=3TK5PJ03cdAQc2Jc-1)
+[Ver prototipo en Figma](https://www.figma.com/proto/CNIrsQtkcqxHSpGZ9LwLRU/Plan-Alimenticio-SER-FELIZ?node-id=602-10&starting-point-node-id=602%3A10&t=oODTsK1YL95KnMmL-1)
 
 ## Documentos
 - [Anteproyecto](anteproyecto.docx)
